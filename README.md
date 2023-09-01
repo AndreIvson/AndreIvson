@@ -1,5 +1,5 @@
 ### Olá, sejam bem vindos! Me chamo André Ivson 👋
-- 🐝 Estou aprendendo programação no Comeia Academy
+- 🐝 Curso Desenvolvimento de Software fullstack concluído no Comeia Academy 2023
 
 ##
 
