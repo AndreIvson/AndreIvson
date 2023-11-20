@@ -1,6 +1,6 @@
 ### Olá, sejam bem vindos! Me chamo André Ivson 👋
 - 🐝 Curso Desenvolvimento de Software fullstack concluído no Comeia Academy 2023
-- Estagiário na BNE
+- Estagiário no BNE
 - Estudante de Ciência da Computação
 
 ##
