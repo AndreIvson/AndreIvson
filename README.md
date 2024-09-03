@@ -1,7 +1,8 @@
 ### Olá, sejam bem vindos! Me chamo André Ivson 👋
+- Estudante de Ciência da Computação na Wyden Unifavip
+- Experiência com QA web e mobile
+- Entusiasta na área de dados e cybersegurança
 - 🐝 Desenvolvimento de Software fullstack concluído no Comeia Academy 2023
-- Estagiário no BNE
-- Estudante de Ciência da Computação
 
 ##
 
